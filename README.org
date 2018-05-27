@@ -1,0 +1,18 @@
+#+TITLE: Urbit Layer
+
+* Table of Contents :TOC_4_gh:noexport:
+- [[#description][Description]]
+- [[#features][Features]]
+- [[#install][Install]]
+  - [[#layer][Layer]]
+
+* Description
+  Layer for [[https://urbit.org][Urbit]]. Currently just a simple wrapper around [[https://github.com/urbit/hoon-mode.el][urbit/hoon-mode.el]].
+
+* Features
+  - Hoon syntax highlighting
+
+* Install
+** Layer
+   To use this configuration layer, add it to your =~/.spacemacs=. You will need to add =erc= to the existing =dotspacemacs-configuration-layers= list in this file.
+
